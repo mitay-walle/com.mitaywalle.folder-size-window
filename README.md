@@ -6,7 +6,7 @@ Unity3d EditorWindow, that show runtime size of folders in Project Window
 - Sorting Alphabetical / Size
 - Asyncronous calculation
 ## Known Issues
-- Show visible sub-subfolders
-- Prefabs size is incorrect (wip)
-- Not calculate Scenes size (Profiler.GetRuntimeMemorySizeLong throw error)
+- Show uncollapsed sub-subfolders from project left-side
+- Prefabs size is incorrect (won't fix)
+- Not calculate Scenes size (Profiler.GetRuntimeMemorySizeLong throw error, won't fix)
 
